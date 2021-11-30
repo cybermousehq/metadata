@@ -1,0 +1,14 @@
+{
+  "name": "Breadhead",
+  "image": "https://raw.githubusercontent.com/cybermousehq/metadata/main/Breadhead.jpg",
+  "attributes": [
+    {
+      "trait_type": "作者",
+      "value": "Connor Zhao"
+    },
+    {
+      "trait_type": "创作年份",
+      "value": "2021"
+    }
+  ]
+}
